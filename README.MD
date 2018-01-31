@@ -1,19 +1,12 @@
-=== Plugin Name ===
-Contributors: Tomás Antal
-Donate link: https://wtsn.eu
-Tags: maintenance
-Requires at least: 3.0.1
-Tested up to: 4.9.2
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Watson Light Maintenance Mode Plugin
+
 
 Super simple and extremely lightweight WordPress maintenance mode for your website.
-Pretty much without any CSS or JS codebase.
+Pretty much without any CSS or JS code.
 
-Requires: PHP 5.x
+Requires: PHP 5.x and WP 3.0.1
 
-== Installation ==
+## Installation 
 
 1. Upload `wtsn-light-maintenance-mode.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
